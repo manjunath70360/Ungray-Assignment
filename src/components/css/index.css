@@ -302,16 +302,18 @@ p{
 }
 
 @media (min-width:760px){
-  .app_container{
-    width: 107vw;
+    .app_container{
+    width: 100vw;
   }
   .content{
     flex-direction: row;
   }
   .middle{
-    width: 60vw;
+    width: 55vw;
   }
- 
+  .left_side{
+    width: 30vw;
+  }
  
 }
 
